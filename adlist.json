@@ -1,12 +1,12 @@
 [
     {
         "id":"ca-app-pub-2334640401367012/1490509825",
-        "is_show": true,
+        "is_show": false,
         "position": "app_open_hot"
     },
     {
         "id":"ca-app-pub-2334640401367012/1490509825",
-        "is_show": true,
+        "is_show": false,
         "position": "app_open_cold"
     }
 ]
