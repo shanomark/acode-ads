@@ -15,6 +15,51 @@
         "position": "home_native"
     },
     {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "strength_check_category_native"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "strength_report_native"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "logos_native"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "two_factor_native"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "generate_psw_native"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "generate_result_native"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "psw_detail_native"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "scan_describe_native"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/8261377207",
+        "is_show": true,
+        "position": "record_native"
+    },
+    {
         "id":"ca-app-pub-2334640401367012/2139897384",
         "is_show": true,
         "position": "password_record_inters"
@@ -27,7 +72,17 @@
     {
         "id":"ca-app-pub-2334640401367012/2139897384",
         "is_show": true,
+        "position": "passwords_detail_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
         "position": "tfa_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "tfa_scan_desc_inters"
     },
     {
         "id":"ca-app-pub-2334640401367012/2139897384",
@@ -53,5 +108,10 @@
         "id":"ca-app-pub-2334640401367012/2139897384",
         "is_show": true,
         "position": "back_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "about_inters"
     }
 ]
