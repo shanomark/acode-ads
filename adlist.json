@@ -66,7 +66,7 @@
     },
     {
         "id":"ca-app-pub-2334640401367012/2139897384",
-        "is_show": true,
+        "is_show": false,
         "position": "passwords_inters"
     },
     {
@@ -76,12 +76,12 @@
     },
     {
         "id":"ca-app-pub-2334640401367012/2139897384",
-        "is_show": true,
+        "is_show": false,
         "position": "tfa_inters"
     },
     {
         "id":"ca-app-pub-2334640401367012/2139897384",
-        "is_show": true,
+        "is_show": false,
         "position": "tfa_scan_desc_inters"
     },
     {
@@ -91,22 +91,22 @@
     },
     {
         "id":"ca-app-pub-2334640401367012/2139897384",
-        "is_show": true,
+        "is_show": false,
         "position": "wifi_inters"
     },
     {
         "id":"ca-app-pub-2334640401367012/2139897384",
-        "is_show": true,
+        "is_show": false,
         "position": "gennerate_inters"
     },
     {
         "id":"ca-app-pub-2334640401367012/2139897384",
-        "is_show": true,
+        "is_show": false,
         "position": "logos_inters"
     },
     {
         "id":"ca-app-pub-2334640401367012/2139897384",
-        "is_show": true,
+        "is_show": false,
         "position": "back_inters"
     },
     {
