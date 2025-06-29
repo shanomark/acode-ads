@@ -118,5 +118,10 @@
         "id":"ca-app-pub-2334640401367012/2139897384",
         "is_show": true,
         "position": "gennerate_result_inters"
+    },
+    {
+        "id":"ca-app-pub-2334640401367012/2139897384",
+        "is_show": true,
+        "position": "paywall_inters"
     }
 ]
